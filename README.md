@@ -5,11 +5,14 @@ A PyTorch and dgl implementation for the WWW 2023 paper below:
 
 ## Running
 ``tar -zxvf data.tar.gz ``
+
+
 ``python main.py ``
 
-##Citation
+## Citation
+
 If you use the code or data, please cite the paper below:
-``
+```
 @article{ma2023graph,
   title={Graph-based Village Level Poverty Identification},
   author={Ma, Jing and Yang, Liangwei and Feng, Qiong and Zhang, Weizhi and Yu, Philip S},
@@ -17,3 +20,4 @@ If you use the code or data, please cite the paper below:
   year={2023}
 }
 ```
+

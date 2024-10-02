@@ -13,10 +13,11 @@ A PyTorch and dgl implementation for the WWW 2023 paper below:
 
 If you use the code or data, please cite the paper below:
 ```
-@article{ma2023graph,
+@inproceedings{ma2023graph,
   title={Graph-based Village Level Poverty Identification},
   author={Ma, Jing and Yang, Liangwei and Feng, Qiong and Zhang, Weizhi and Yu, Philip S},
-  journal={arXiv preprint arXiv:2302.06862},
+  booktitle={Proceedings of the ACM Web Conference 2023},
+  pages={4115--4119},
   year={2023}
 }
 ```
